@@ -1,3 +1,25 @@
 2015-04-03 10:06:56 - PHP Notice:  Undefined index: route in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 2
 2015-04-03 10:06:57 - PHP Notice:  Undefined index: route in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 2
 2015-04-03 10:06:57 - PHP Notice:  Undefined index: route in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 2
+2015-04-16 13:14:55 - PHP Notice:  Undefined variable: flipnik in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\module\slideshow.tpl on line 7
+2015-04-16 13:14:55 - PHP Notice:  Undefined variable: flipnik in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\module\slideshow.tpl on line 7
+2015-04-16 13:14:55 - PHP Notice:  Undefined variable: flipnik in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\module\slideshow.tpl on line 7
+2015-04-17 9:19:33 - PHP Notice:  Undefined variable: text_items in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 41
+2015-04-17 9:21:15 - PHP Notice:  Undefined index: cart_item in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 41
+2015-04-17 9:21:15 - PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 44
+2015-04-17 9:21:15 - PHP Notice:  Undefined index: cart_item in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 45
+2015-04-17 9:21:53 - PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 41
+2015-04-17 9:21:53 - PHP Notice:  Undefined index: cart_item in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 41
+2015-04-17 9:21:53 - PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 44
+2015-04-17 9:21:53 - PHP Notice:  Undefined index: cart_item in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 45
+2015-04-17 9:22:04 - PHP Notice:  Undefined index: cart_item in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 41
+2015-04-17 9:22:04 - PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 44
+2015-04-17 9:22:04 - PHP Notice:  Undefined index: cart_item in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 45
+2015-04-17 9:22:53 - PHP Notice:  Undefined index: cart_item in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 41
+2015-04-17 9:22:53 - PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 44
+2015-04-17 9:23:02 - PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 44
+2015-04-17 9:23:05 - PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 44
+2015-04-17 9:23:08 - PHP Notice:  A session had already been started - ignoring session_start() in C:\xampp\htdocs\frazzy\catalog\controller\common\cart.php on line 44
+2015-04-17 9:24:59 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 41
+2015-04-17 9:29:12 - PHP Notice:  Undefined index: sidecart in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 41
+2015-04-18 9:35:09 - PHP Notice:  Undefined variable: cart in C:\xampp\htdocs\frazzy\catalog\view\theme\default\template\common\column_right.tpl on line 56
